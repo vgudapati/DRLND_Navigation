@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
-[image2]: rainbow.jpg "Rainbow"
+[image2]: https://cdn-images-1.medium.com/max/1200/1*8b_wJNn0tC_7t6T7ID_OUQ.png "Rainbow"
 
 # Project 1: Navigation
 
