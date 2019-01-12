@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image2]: rainbow.jpg "Rainbow"
 
 # Project 1: Navigation
 
@@ -52,4 +53,6 @@ Follow the instructions in `Navigation.ipynb` to train the agent and see the res
 The DQN implementation can be improved several ways for better performance.
 1. One of the most effective so far I have seen is the rainbow algorithm as mentioned in the rainbow paper (https://arxiv.org/pdf/1710.02298.pdf). We can try individual algorithms. But the most effective one is the rainbow.
 
+![Rainbow][image2]
 2. Additionally, we can use systematic ways of tuning the neural network hyperparameters (such as learning rate) and their loss functions and optimizers and the network architectures themselves.
+
